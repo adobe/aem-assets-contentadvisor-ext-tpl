@@ -1,0 +1,3 @@
+extensions:
+  aem/assets/contentadvisor/1:
+    $include: src/aem-assets-contentadvisor-1/ext.config.yaml
